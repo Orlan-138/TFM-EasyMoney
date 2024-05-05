@@ -3,3 +3,5 @@ customer_products.csv
 customer_sociodemographics.csv
 product_description.csv
 sales.csv
+desktop.ini
+.DS_Store
