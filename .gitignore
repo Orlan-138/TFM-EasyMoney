@@ -1,7 +1,3 @@
-customer_commercial_activity.csv
-customer_products.csv
-customer_sociodemographics.csv
-product_description.csv
-sales.csv
+*.csv
 desktop.ini
 .DS_Store
