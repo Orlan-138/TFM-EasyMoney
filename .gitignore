@@ -1,3 +1,4 @@
-*.csv
+/data/*.csv
 desktop.ini
 .DS_Store
+.vscode
